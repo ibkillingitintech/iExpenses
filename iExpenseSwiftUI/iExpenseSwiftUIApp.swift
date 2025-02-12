@@ -2,9 +2,9 @@
 //  iExpenseSwiftUIApp.swift
 //  iExpenseSwiftUI
 //
-//  Created by Ibraheem k. Rawlinson on 10/3/24.
-//
 
+//
+import SwiftData
 import SwiftUI
 
 @main
@@ -13,5 +13,6 @@ struct iExpenseSwiftUIApp: App {
         WindowGroup {
             ContentView()
         }
+        .modelContainer(for: ExpenseItem.self)
     }
 }
