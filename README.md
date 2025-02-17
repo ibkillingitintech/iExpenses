@@ -3,7 +3,7 @@
 A **SwiftData-powered expense tracker** that helps you categorize, filter, and manage personal & business expenses efficiently. 📊  
 
 
-<img src="https://github.com/user-attachments/assets/9518a83d-f79e-4947-9b08-34fb54d46058" alt="Alt Text" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/9518a83d-f79e-4947-9b08-34fb54d46058" alt="Alt Text" width="100" height="500">
 ---
 
 ## 📖 About the Project  
