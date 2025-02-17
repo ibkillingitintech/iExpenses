@@ -4,7 +4,6 @@ A **SwiftData-powered expense tracker** that helps you categorize, filter, and m
 
 
 <img src="https://github.com/user-attachments/assets/9518a83d-f79e-4947-9b08-34fb54d46058" alt="Alt Text" width="250" height="500">
----
 
 ## 📖 About the Project  
 **iExpenseSwiftUI** is a beautifully designed **SwiftUI app** that allows users to track **personal and business expenses** effortlessly.  
@@ -23,7 +22,7 @@ With **SwiftData integration**, the app enables **sorting, filtering, and persis
 ## 📸 Screenshots  
 | Home Screen | Add Expense | Sorted & Filtered List |  
 |------------|------------|----------------------|  
-| ![Home](#) | ![Add](#) | ![Filtered](#) |  
+| <img src="https://github.com/user-attachments/assets/dd9f3e78-0323-4f4f-ab30-9c3c5e3ab7a7" alt="Home Screen" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/46c3e17e-5f74-4d6c-a5a9-ba84bc397ffe" alt="Add Expenses" width="250" height="500"> | <img src="https://github.com/user-attachments/assets/4faeffe5-7f1d-4515-9aab-4d40cab332c7" alt="Filtered list" width="250" height="500"> |  
 
 ---
 
